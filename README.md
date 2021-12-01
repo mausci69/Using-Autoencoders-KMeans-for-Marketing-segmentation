@@ -2,7 +2,7 @@
 
 Marketing is crucial for the growth and sustainability of any business. What really matters to customers is to know their customers. This kind of knowledge means the possibility to perform what is called market segmentation.
 
-Our use case is a New York City Bank that had the opportunity to study their customers for the past 6 months and now want to lanunch a targeted marketing campaign by dividing them into at least 3 groups.
+Our use case is a New York City Bank that had the opportunity to study their customers for the past 6 months and now want to launch a targeted marketing campaign by dividing them into at least 3 groups.
 
 After taking a look at the data, with a really minimum preprocessing, they are actually clean, we will follow two approaches to perform a segmentation.
 
